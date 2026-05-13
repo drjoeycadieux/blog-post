@@ -1,6 +1,6 @@
 <script setup>
 // Replace this with your actual GraphQL API URL
-const graphqlUrl = 'https://your-api-endpoint.com/graphql';
+const graphqlUrl = 'https://faang-blog.netlify.app/graphql';
 </script>
 
 <template>

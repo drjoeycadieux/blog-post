@@ -10,7 +10,7 @@ import router from './router'; // Import from the file we made above
 
 // 1. Setup GraphQL
 const httpLink = createHttpLink({
-  uri: 'https://your-api-endpoint.com/graphql',
+  uri: 'https://faang-blog.netlify.app/graphql',
 });
 
 const apolloClient = new ApolloClient({
